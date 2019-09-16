@@ -49,7 +49,7 @@ git clone git@github.com:glciampaglia/twitch-overload.git
 4. Open a terminal and run:
 ```
     cd twitch-overload
-    conda create --file environment.yml
+    conda env create --file environment.yml
     conda activate twitch-overload
 ```
 
