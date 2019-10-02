@@ -1,29 +1,26 @@
-# Code and data for [Nematzadeh et al. (2016)](https://arxiv.org/abs/1610.06497)
+# Code and data for [Nematzadeh et al. (2019)](http://dx.doi.org/10.1098/rsos.191412)
 
 This repository contains a Jupyter notebook that replicates the main results of
 the following paper:
 
     Nematzadeh, Azadeh, Giovanni Luca Ciampaglia, Yong-Yeol Ahn, and Alessandro
     Flammini. Information Overload in Group Communication: From Conversation to
-    Cacophony in the Twitch Chat. e-print. CoRR, Nov. 2016. arXiv: 1610.06497
-    [cs.SI].
+    Cacophony in the Twitch Chat (2019) _R. Soc. open sci._ 6: 191412.
 
 The following BibTeX code can be imported into a citation manager for reference:
 
 ```bibtex
-    @TechReport{Nematzadeh2016,
+    @Article{Nematzadeh2019,
         Title         = {Information Overload in Group Communication: From
                          Conversation to Cacophony in the Twitch Chat},
         Author        = {Nematzadeh, Azadeh and Ciampaglia, Giovanni Luca and
                          Ahn, Yong-Yeol and Flammini, Alessandro},
-        Institution   = {CoRR},
-        Year          = {2016},
-        Month         = nov,
-        Type          = {e-print},
-
-        Archiveprefix = {arXiv},
-        Eprint        = {1610.06497},
-        Primaryclass  = {cs.SI}
+        Year          = {2019},
+        Month         = oct,
+        Journal       = {R. Soc. open sci.},
+        Number        = {6},
+        Pages         = {191412},
+        Doi           = {10.1098/rsos.191412}
     }
 ```
 
